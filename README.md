@@ -1,4 +1,4 @@
-This repository includes the source code of "**MIXED-CURVATURE EXPERTS DIFFUSION: GEOMETRICALLY ADAPTIVE LINK PREDICTION VIA HYBRID MANIFOLD LEARNING**"
+This repository includes the source code of "**Adaptive Geometric Representation Learning through Mixed-Curvature Mixture-of-Experts Diffusion for Link Prediction**"
 
 # Requirements
 
